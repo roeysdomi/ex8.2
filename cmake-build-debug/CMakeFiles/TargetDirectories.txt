@@ -1,0 +1,3 @@
+C:/Users/roeys/CLionProjects/EX8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/roeys/CLionProjects/EX8/cmake-build-debug/CMakeFiles/EX8.dir
+C:/Users/roeys/CLionProjects/EX8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
